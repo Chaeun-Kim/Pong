@@ -21,7 +21,7 @@ Ball::Ball(MyRect *p1){
     QTimer * timer = new QTimer();
     connect(timer,SIGNAL(timeout()),this, SLOT(move()));
 
-    timer->start();
+    timer->start(13);
 }
 
 void Ball::move(){
