@@ -7,8 +7,9 @@ Pong game implemented with Qt and C++
 #
 ############################################
 
-How to run the game
-  To run the game, you will need to install Qt on your machine.
+How to run
+
+  	- To run the game, you will need to install Qt on your machine.
 
 1. Go to https://www.qt.io/download, and intall the Qt Open Source version
 
@@ -24,10 +25,12 @@ How to run the game
 5. Run the project
 
 How to play
-  - Press <- to move the bar left, and -> to move it right. Whoever scores first 5 win the game.
+	
+	- Press <- to move the bar left, and -> to move it right. Whoever scores first 5 win the game.
 
 Things to get improved
-  - The movement of user's bar is not smooth.
-  - The game is not resolution independent. On different resolutions, size of the game window
-    is not consistent, which reduces usability.
+
+  	- The movement of user's bar is not smooth.
+  	- The game is not resolution independent. On different resolutions, size of the game window
+    	is not consistent, which reduces usability.
     
